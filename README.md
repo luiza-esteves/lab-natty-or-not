@@ -1,51 +1,55 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 🌍 IA: A Força Colaborativa do Aprendizado
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto explora como as **IAs generativas** podem ampliar a colaboração e democratizar o aprendizado.  
+A ideia é mostrar que, quando bem utilizadas, essas tecnologias não substituem o humano — elas **potencializam a troca de conhecimento**, conectando pessoas de diferentes origens e áreas em torno de um aprendizado mais amplo, diverso e acessível.
+
+---
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+| Tipo de Conteúdo | Ferramenta / IA | Uso |
+|------------------|-----------------|-----|
+| **Textos e Roteiros** | ChatGPT (GPT-5), Google Gemini (2.5 Pro) | Criação de roteiros, artigos e legendas inspiradoras. |
+| **Imagens / Artes Visuais** | DALL·E, Leonardo.ai | Criação de ilustrações e capas estéticas para posts e vídeos. |
+| **Áudio / Voz Artificial** | ElevenLabs | Narração natural dos roteiros para vídeos curtos. |
+| **Vídeos / Animações** | Pika Labs, RunwayML | Geração de vídeos com narração e movimento. |
+| **Edição / Montagem** | CapCut, Canva | Combinação de elementos visuais e ajustes finais. |
+
+---
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+1. **Ideação e Pesquisa**  
+   - Usei o ChatGPT e o Gemini para estruturar ideias sobre como a IA pode apoiar o aprendizado colaborativo e acessível.  
+   - Elaborei um roteiro curto e envolvente para vídeo e post.
+
+2. **Criação de Conteúdo**  
+   - 
+
+3. **Publicação e Portfólio**  
+---
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+rtfólio atualizado com um exemplo prático de integração entre tecnologia e propósito.
 
-### Exemplos e Insigths
+---
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+## 💭 Reflexão
 
-## Links Interessantes
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## ✅ Roteiro de Execução
+
+| Etapa | Ação | Ferramenta |
+|-------|------|-------------|
+| 1 | Definir foco do conteúdo (IA na educação colaborativa) | ChatGPT e Gemini|
+| 2 | Gerar roteiro curto (45–60s) | ChatGPT |
+
+
+---
+
+💬 **#LabDIONattyOrNot**  
+Feito com curiosidade, propósito e IA 💡  
+Por [Luíza Esteves dos Santos](https://github.com/luizaesteves)
